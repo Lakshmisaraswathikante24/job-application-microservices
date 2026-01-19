@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.jobapp.companyms.company.CompanyService"/>
+    <fullyQualifiedTypeName name="com.jobapp.companyms.company.CompanyRepository"/>
+    <fullyQualifiedTypeName name="com.jobapp.companyms.company.Company"/>
+    <fullyQualifiedTypeName name="com.jobapp.reviewms.review.ReviewService"/>
+    <fullyQualifiedTypeName name="com.jobapp.reviewms.review.ReviewRepository"/>
+    <fullyQualifiedTypeName name="com.jobapp.reviewms.review.Review"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+    <fullyQualifiedTypeName name="com.jobapp.job.JobService"/>
+    <fullyQualifiedTypeName name="com.jobapp.job.JobRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
+    <fullyQualifiedTypeName name="org.springframework.web.client.RestTemplate"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="com.jobapp.job.dto.JobWithCompanyDTO"/>
+    <fullyQualifiedTypeName name="com.jobapp.job.Job"/>
+    <fullyQualifiedTypeName name="com.jobapp.job.external.Company"/>
+    <fullyQualifiedTypeName name="com.jobapp.job.mapper.JobMapper"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.HttpMethod"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.jobapp.job.external.Review"/>
+</qualifiedTypeNameHistroy>

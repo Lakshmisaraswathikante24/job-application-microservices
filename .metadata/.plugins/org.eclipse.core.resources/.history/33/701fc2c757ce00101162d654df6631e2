@@ -1,0 +1,5 @@
+package com.jobapp.job.mapper;
+
+public class JobMapper {
+
+}

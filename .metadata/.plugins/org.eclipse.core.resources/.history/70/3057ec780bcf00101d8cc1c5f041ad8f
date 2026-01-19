@@ -1,0 +1,15 @@
+package com.jobapp.job.client;
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+
+import com.jobapp.job.external.Company;
+
+@FeignClient(name="COMPANY-SERVICE")
+public interface CompanyClient {
+	
+	@GetMapping("/comapanies/{id}")
+	Company getCompany(@PathVariable("id") Long id);
+
+}

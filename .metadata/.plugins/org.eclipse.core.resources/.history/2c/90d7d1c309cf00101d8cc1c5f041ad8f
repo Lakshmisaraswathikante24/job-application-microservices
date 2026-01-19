@@ -1,0 +1,5 @@
+package com.jobapp.job.client;
+
+public class CompanyClient {
+
+}

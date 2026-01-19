@@ -1,0 +1,5 @@
+package com.jobapp.reviewms.review.messaging;
+
+public class ReviewMessageProducer {
+
+}

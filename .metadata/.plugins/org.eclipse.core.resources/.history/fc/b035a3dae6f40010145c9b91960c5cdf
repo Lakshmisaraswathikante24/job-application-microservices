@@ -1,0 +1,5 @@
+package com.jobapp.companyms.company.messaging;
+
+public class ReviewMessageConsumer {
+
+}

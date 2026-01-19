@@ -1,0 +1,5 @@
+package com.jobapp.job.external;
+
+public class Review {
+
+}
